@@ -22,6 +22,7 @@ If there are no vaccines available, an email will not be sent.
 - If the database grows too large, users who registered later may recieve their notifications too late because the notification system is set to go row by row of the database.
 - The database table can be split into states using zip code ranges (e.g. 10XXX - 11XXX for NYC) and separate scripts can be run to speed up the notification process.
 - Vaccine availability is updated around approximately ~6 am EST / 3 am PST, the notification system should be set to run somewhere around this time
+- You can change from email notifications to SMS notifications by changing the code in the notifications script
 
 # Requirements
 - flask
