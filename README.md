@@ -1,7 +1,7 @@
 # COVID-19-Vaccine-Availability-Notifier
 Uses [VaccineFinder.org](https://vaccinefinder.org/) to notify users of available COVID-19 Vaccines based on their preferences.
 
-If you're interested in hosting this code, or using any parts of it please first reach out to the team at VaccinesFinder.<br>
+If you're interested in hosting this code, or using any parts of it please first reach out to the team at VaccineFinder.<br>
 The contact form is [here](https://docs.google.com/forms/d/e/1FAIpQLSf00jHygTZv49JrhJvUvkPJb-saifBKQIcofEJBEZ7bSIzVRQ/viewform).
 
 # How it Works
